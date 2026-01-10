@@ -1,6 +1,6 @@
 
 <?php require('header.php') ?>
 
-<?php  echo "Welcome" ?> 
+<?php  echo "About" ?> 
 
 <?php include('footer.php') ?>
